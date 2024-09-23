@@ -1,0 +1,7 @@
+https://www.linuxquestions.org/questions/linux-newbie-8/apache2-conf-read-only-327410/
+https://stackoverflow.com/questions/12142172/apache-shows-php-code-instead-of-executing-it
+https://askubuntu.com/questions/890672/all-i-want-to-do-is-edit-a-file-but
+https://medium.com/@arunpragashap/install-apache-server-in-ubuntu-and-run-a-php-file-7e5630376e96
+https://stackoverflow.com/questions/53755346/how-to-run-php-script-with-apache-on-debian
+https://forums.linuxmint.com/viewtopic.php?t=412363
+https://www.digitalocean.com/community/tutorials/how-to-install-lamp-stack-on-ubuntu
